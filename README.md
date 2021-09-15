@@ -19,6 +19,8 @@ As result, it's expected:
 
 
 
+The PredictWord.ipynb file will generate/save a tokenizer.pkl file and "model".h5 files for each model. This last file is named as nextword0.h5 for the first model, nextword1.h5 for the second one, and so on. 
+
 _____________________
 
 Authorship: PhD Bruna Faria. 
